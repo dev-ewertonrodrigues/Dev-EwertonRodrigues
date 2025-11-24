@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Eu sou o Ewerton Rodrigues, um programador FullStack em treinamento, em transição de carreira aos 40 anos. <br> <br>
+Me chamo Ewerton Rodrigues. Sou um programador FullStack, em transição de carreira aos 40 anos. <br> <br>
 Com dedicação e foco, estou construindo uma nova trajetória profissional na área de tecnologia, aprendendo e aplicando os fundamentos do desenvolvimento web.
 
 Atualmente desenvolvendo habilidades e fazendo pequenos projetos em:
